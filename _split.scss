@@ -1,0 +1,18 @@
+/*------------------------------------*\
+    #SPLIT
+\*------------------------------------*/
+
+/**
+ * The split object floats two elements away from another.
+ */
+
+.split{
+    text-align: right;
+    list-style: none;
+    margin-left: 0;
+}
+    .split__title{
+        text-align: left;
+        float: left;
+        clear: left;
+    }
