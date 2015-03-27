@@ -1,17 +1,20 @@
 {
   "name": "inuit-split",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/csshugs/objects.split",
   "authors": [
     "Dennis Heibuelt <dennis@csshugs.com>",
     "Harry Roberts <harry@csswizardry.com>"
   ],
-  "description": "The split object floats two elements away from another",
+  "description": "The split object floats two elements away from each other",
   "main": "_objects.split.scss",
   "keywords": [
     "inuitcss",
     "oocss",
     "css"
   ],
-  "license": "Apache"
+  "license": "Apache",
+  "dependencies": {
+    "inuit-defaults": "~0.2.0"
+  }
 }
