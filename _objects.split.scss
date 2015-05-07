@@ -9,15 +9,13 @@
 // Predefine the variables below in order to alter and enable specific features.
 $inuit-split-namespace: $inuit-namespace !default;
 
-.#{$inuit-split-namespace}split,
-%#{$inuit-split-namespace}split {
+.#{$inuit-split-namespace}split {
     text-align: right;
     list-style: none;
     margin-left: 0;
 }
 
-    .#{$inuit-split-namespace}split__title,
-    %#{$inuit-split-namespace}split__title {
+    .#{$inuit-split-namespace}split__title {
         text-align: left;
         float: left;
         clear: left;
