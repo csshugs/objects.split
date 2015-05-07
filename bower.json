@@ -1,6 +1,6 @@
 {
   "name": "inuit-split",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "homepage": "https://github.com/csshugs/objects.split",
   "authors": [
     "Dennis Heibuelt <dennis@csshugs.com>",
@@ -15,6 +15,6 @@
   ],
   "license": "Apache",
   "dependencies": {
-    "inuit-defaults": "~0.2.0"
+    "inuit-defaults": "~0.2.3"
   }
 }
